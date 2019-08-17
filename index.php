@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php
 $cookie_name = "user";
-$cookie_value = "John Doe";
+$cookie_value = "ganapathy praveen krishna shivu ninganna ravi varsha snatho";
 setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/"); // 86400 = 1 day
 ?>
 <html>
